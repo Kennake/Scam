@@ -1,0 +1,42 @@
+li{
+display:inline;
+margin:7px 10px 10px 10px;
+padding:10px;}
+h1{
+text-transform: uppercase;
+color:purple;
+font-style: italic;
+font-size:normal;}
+img.small{ 
+display: block; 
+margin: 0px auto;
+float:right;
+width:202px;
+height:150px;} 
+img.small2{
+display: block;
+margin:0px auto;
+float:left;
+width:141.5px;
+height:150px;
+padding:0px;}
+img.small3{
+display: block;
+margin:0px auto;
+float:left;
+width:143.5px;
+height:150px;
+padding:0px;}
+img.small4{
+display: block;
+margin:0px auto;
+float:right;
+width:200px;
+height:150px;
+padding:0px;}
+body{
+background-color:pink;}
+h2{
+color:purple;
+}
+
